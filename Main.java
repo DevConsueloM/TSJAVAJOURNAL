@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Consuelo Maldonado java journal touchstone 
 // Class for performing calculator operations
 class SimpleCalculator {
 
